@@ -18,8 +18,8 @@
   - [x] Exercícios 001 a 015
   - [x] DESAFIO (016)
 * Passo 02 - Condições Básicas
-  - [ ] Exercícios 017 a 024
-  - [ ] DESAFIO (025)
+  - [x] Exercícios 017 a 024
+  - [x] DESAFIO (025)
 * Passo 03 - Condições Compostas
   - [ ] Exercícios 026 a 029
   - [ ] DESAFIO (030)
