@@ -4,14 +4,15 @@
 
 ## 📑 Aulas
 0. Apresentação
-1. Primeiro algoritmo
-2. Tipos primitivos
-3. Entrada de dados
-4. Operadores aritmédicos
-5. Cálculo de porcentagem
-6. Condições simples
-7. Operadores lógicos e relacionais
-8. ...
+1. Primeiro Algoritmo
+2. Tipos Primitivos
+3. Entrada de Dados
+4. Operadores Aritmédicos
+5. Cálculo de Porcentagem
+6. Condições Simples
+7. Operadores Lógicos e Relacionais
+8. Condições Aninhadas
+9. ...
 ---
 ## 📚 Exercícios
 * Passo 01 - Sequências Básicas
