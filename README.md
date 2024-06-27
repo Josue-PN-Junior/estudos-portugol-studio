@@ -22,8 +22,8 @@
   - [x] Exercícios 017 a 024
   - [x] DESAFIO (025)
 * Passo 03 - Condições Compostas
-  - [ ] Exercícios 026 a 029
-  - [ ] DESAFIO (030)
+  - [x] Exercícios 026 a 029
+  - [x] DESAFIO (030)
   - [ ] DESAFIO (031)
   - [ ] DESAFIO (032)
   - [ ] Exercícos 033 a 037
