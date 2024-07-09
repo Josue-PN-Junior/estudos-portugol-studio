@@ -12,7 +12,20 @@
 6. Condições Simples
 7. Operadores Lógicos e Relacionais
 8. Condições Aninhadas
-9. ...
+9. Bibliotecas Adicionais
+10. Jogo de Adivinhação
+11. Como Vai Ser a Prova
+12. Repetição Enquanto (parte 1)
+13. Repetição Enquanto (parte 2)
+14. Repetição Enquanto (parte 3)
+15. Repetição Enquanto (parte 4)
+16. Repetição Enquanto (parte 5)
+17. Repetição Enquanto (parte 6)
+18. Repetição Enquanto (parte 7)
+19. Repetição Enquanto (parte 8)
+20. Repetição Enquanto (parte 9)
+21. Repetição Enquanto (parte 10)
+22. ...
 ---
 ## 📚 Exercícios
 * Passo 01 - Sequências Básicas
@@ -24,8 +37,8 @@
 * Passo 03 - Condições Compostas
   - [x] Exercícios 026 a 029
   - [x] DESAFIO (030)
-  - [ ] DESAFIO (031)
-  - [ ] DESAFIO (032)
+  - [x] DESAFIO (031)
+  - [x] DESAFIO (032)
   - [ ] Exercícos 033 a 037
 * Passo 04 - Repetições enquanto
   - [ ] Exercícos 038 a 054
