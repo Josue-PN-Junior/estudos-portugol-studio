@@ -39,7 +39,7 @@
   - [x] DESAFIO (030)
   - [x] DESAFIO (031)
   - [x] DESAFIO (032)
-  - [ ] Exercícos 033 a 037
+  - [x] Exercícos 033 a 037
 * Passo 04 - Repetições enquanto
   - [ ] Exercícos 038 a 054
   - [ ] DESAFIO (055)
