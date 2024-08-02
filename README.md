@@ -41,8 +41,8 @@
   - [x] DESAFIO (032)
   - [x] Exercícos 033 a 037
 * Passo 04 - Repetições enquanto
-  - [ ] Exercícos 038 a 054
-  - [ ] DESAFIO (055)
+  - [x] Exercícos 038 a 054
+  - [x] DESAFIO (055)
 * Passo 05 - Enquanto com Flag 
   - [ ] Exercício 056 a 060
 * Passo 06 - Repetição com faça enquanto
