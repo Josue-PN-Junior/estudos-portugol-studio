@@ -25,7 +25,20 @@
 19. Repetição Enquanto (parte 8)
 20. Repetição Enquanto (parte 9)
 21. Repetição Enquanto (parte 10)
-22. ...
+22. Repetição Faça Enquanto
+23. Repetição Para (parte 1)
+24. Repetição Para (parte 2)
+25. O Que É Um Vetor
+26. Preenchendo Vetores
+27. Lendo Valores Para Vetores
+28. Operações Com Vetores
+29. Listagem Com Vetores
+30. Listagem Completa
+31. Rotinas
+32. Procedimentos Com Parâmetros
+33. Procedimentos Completos
+34. Funções
+35. Funções Completas
 ---
 ## 📚 Exercícios
 * Passo 01 - Sequências Básicas
