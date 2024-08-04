@@ -57,7 +57,7 @@
   - [x] Exercícos 038 a 054
   - [x] DESAFIO (055)
 * Passo 05 - Enquanto com Flag 
-  - [ ] Exercício 056 a 060
+  - [x] Exercício 056 a 060
 * Passo 06 - Repetição com faça enquanto
   - [ ] Exercício 061 a 063
 * Passo 07 - Repetição com para
