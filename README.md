@@ -61,9 +61,9 @@
 * Passo 06 - Repetição com faça enquanto
   - [x] Exercício 061 a 063
 * Passo 07 - Repetição com para
-  - [ ] Exercício 064 a 068
-  - [ ] DESAFIO (069)
-  - [ ] DESAFIO (070)
+  - [x] Exercício 064 a 068
+  - [x] DESAFIO (069)
+  - [x] DESAFIO (070)
 * Passo 08 - Vetores
   - [ ] Exercícios 071 a 082
   - [ ] DESAFIO (083)
