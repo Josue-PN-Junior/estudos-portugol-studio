@@ -65,9 +65,9 @@
   - [x] DESAFIO (069)
   - [x] DESAFIO (070)
 * Passo 08 - Vetores
-  - [ ] Exercícios 071 a 082
-  - [ ] DESAFIO (083)
-  - [ ] Exercícios 084 a 085
+  - [x] Exercícios 071 a 082
+  - [x] DESAFIO (083)
+  - [x] Exercícios 084 a 085
 * Passo 09 - Procedimentos
   - [ ] Exercícios 086 a 093
   - [ ] DESAFIO (094)
