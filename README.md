@@ -69,7 +69,7 @@
   - [x] DESAFIO (083)
   - [x] Exercícios 084 a 085
 * Passo 09 - Procedimentos
-  - [ ] Exercícios 086 a 093
-  - [ ] DESAFIO (094)
+  - [x] Exercícios 086 a 093
+  - [x] DESAFIO (094)
 * Passo 10 - Funções
   - [ ] Exercícios 095 a 100
