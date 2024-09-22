@@ -3,6 +3,7 @@
 ***
 
 ## 📑 Aulas
+
 0. Apresentação
 1. Primeiro Algoritmo
 2. Tipos Primitivos
@@ -41,6 +42,7 @@
 35. Funções Completas
 ---
 ## 📚 Exercícios
+- [x] ~~Exercícios finalizados~~
 * Passo 01 - Sequências Básicas
   - [x] Exercícios 001 a 015
   - [x] DESAFIO (016)
@@ -72,4 +74,4 @@
   - [x] Exercícios 086 a 093
   - [x] DESAFIO (094)
 * Passo 10 - Funções
-  - [ ] Exercícios 095 a 100
+  - [x] Exercícios 095 a 100
