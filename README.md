@@ -3,7 +3,7 @@
 ***
 
 ## 📑 Aulas
-
+- [x] ~Aulas concluídas~
 0. Apresentação
 1. Primeiro Algoritmo
 2. Tipos Primitivos
